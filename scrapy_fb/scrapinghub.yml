@@ -1,0 +1,7 @@
+project: 449073
+requirements:
+  file: requirements.txt
+#  eggs:
+#    - privatelib.egg
+#    - path/to/otherlib.egg
+image: true
